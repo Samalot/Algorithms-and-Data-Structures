@@ -5,7 +5,7 @@ A collection of algorithms and data structures writting in Python.
 ---
 # Search
 
-  - **Dijkstra's Algorithm** - *Shortest path between two nodes in a graph.*
+  - **[Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)** - *Shortest path between two nodes in a graph.*
   
 # Compression
 
