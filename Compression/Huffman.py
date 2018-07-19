@@ -2,7 +2,7 @@ import heapq
 
 def codebook(data):
 
-    ## Greate a frequency heap
+    ## Create a frequency heap
     freq = {}
     for c in data:
         freq[c] = freq.get(c, 0) + 1
