@@ -3,6 +3,10 @@
 A collection of algorithms and data structures writting in Python.
 
 ---
+# Data Structures
+
+  - **[Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)** - *Space-efficient probabilistic data structure to check list non-membership*
+
 # Search
 
   - **[Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)** - *Shortest path between two nodes in a graph.*
