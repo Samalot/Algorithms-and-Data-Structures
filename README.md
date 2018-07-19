@@ -9,7 +9,7 @@ A collection of algorithms and data structures writting in Python.
   
 # Compression
 
-  - **Huffman Coding** - *Lossless compression based on the frequency of characters.*
+  - **[Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding)** - *Lossless compression based on the frequency of characters.*
 
 ---
 License
