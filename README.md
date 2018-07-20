@@ -18,7 +18,9 @@ A collection of algorithms and data structures writting in Python.
 
 # Arrays
 
-  - **[Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem)** - *Find the maximum contigous subarray in O(n).*
+  - **[Kadane's Algorithm](https://github.com/Samalot/python-practice/blob/master/Arrays/Kadane.py)** - *Find the maximum contigous subarray in O(n).* - [Wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
+
+
 
 ---
 License
