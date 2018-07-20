@@ -16,6 +16,10 @@ A collection of algorithms and data structures writting in Python.
 
   - **[Huffman Coding](https://en.wikipedia.org/wiki/Huffman_coding)** - *Lossless compression based on the frequency of characters.*
 
+# Arrays
+
+  - **[Kadane's Algorithm](https://en.wikipedia.org/wiki/Maximum_subarray_problem)** - *Find the maximum contigous subarray in O(n).*
+
 ---
 License
 ----
