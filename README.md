@@ -7,6 +7,9 @@ A collection of algorithms and data structures writting in Python.
 
   - **[Bloom Filter](https://github.com/Samalot/python-practice/blob/master/Data%20Structures/Bloom_Filter.py)** - *Space-efficient probabilistic data structure to check list non-membership* - [Wiki](https://en.wikipedia.org/wiki/Bloom_filter)
 
+# Sort
+  - **[Bogo Sort](https://github.com/Samalot/python-practice/blob/master/Sort/Bogo_Sort.py)** - *Highly inefficient algorithm based on random permutations.* - [Wiki](https://en.wikipedia.org/wiki/Bogosort ) 
+  
 # Search
 
   - **[Dijkstra's Algorithm](https://github.com/Samalot/python-practice/blob/master/Search/Dijkstra.py)** - *Shortest path between two nodes in a graph.* - [Wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
@@ -18,7 +21,7 @@ A collection of algorithms and data structures writting in Python.
 
 # Arrays
 
-  - **[Kadane's Algorithm](https://github.com/Samalot/python-practice/blob/master/Arrays/Kadane.py)** - *Find the maximum contigous subarray in O(n).* - [Wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
+  - **[Kadane's Algorithm](https://github.com/Samalot/python-practice/blob/master/Arrays/Kadane.py)** - *Find the maximum contigous subarray in O(n).* - [Wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem)]
 
 
 
