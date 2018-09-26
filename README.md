@@ -21,9 +21,11 @@ A collection of algorithms and data structures writting in Python.
 
 # Arrays
 
-  - **[Kadane's Algorithm](https://github.com/Samalot/python-practice/blob/master/Arrays/Kadane.py)** - *Find the maximum contigous subarray in O(n).* - [Wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem)]
+  - **[Kadane's Algorithm](https://github.com/Samalot/python-practice/blob/master/Arrays/Kadane.py)** - *Find the maximum contigous subarray in O(n).* - [Wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem)
 
+# Cover and Packing
 
+  - **[Set Cover - Greedy](https://github.com/Samalot/python-practice/blob/master/Cover%20and%20Packing/Set_Cover_Greedy.py)** - *Greedy approximation for the Set Cover problem.* - [Wiki](https://en.wikipedia.org/wiki/Set_cover_problem)
 
 ---
 License
