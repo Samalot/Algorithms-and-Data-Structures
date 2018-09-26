@@ -1,6 +1,6 @@
 # Python Practise
 
-A collection of algorithms and data structures writting in Python.
+A collection of algorithms and data structures written in Python.
 
 ---
 # Data Structures
