@@ -8,7 +8,10 @@ A collection of algorithms and data structures writting in Python.
   - **[Bloom Filter](https://github.com/Samalot/python-practice/blob/master/Data%20Structures/Bloom_Filter.py)** - *Space-efficient probabilistic data structure to check list non-membership* - [Wiki](https://en.wikipedia.org/wiki/Bloom_filter)
 
 # Sort
-  - **[Bogo Sort](https://github.com/Samalot/python-practice/blob/master/Sort/Bogo_Sort.py)** - *Highly inefficient algorithm based on random permutations.* - [Wiki](https://en.wikipedia.org/wiki/Bogosort ) 
+
+  - **[Bubble Sort](https://github.com/Samalot/python-practice/blob/master/Sort/Bubble_Sort.py)** - *A simple sorting algorithm that repeatedly steps through the list.* - [Wiki](https://en.wikipedia.org/wiki/Bubble_sort) 
+  - **[Bogo Sort](https://github.com/Samalot/python-practice/blob/master/Sort/Bogo_Sort.py)** - *Highly inefficient algorithm based on random permutations.* - [Wiki](https://en.wikipedia.org/wiki/Bogosort) 
+  - **[Merge Sort](https://github.com/Samalot/python-practice/blob/master/Sort/Merge_Sort.py)** - *Divide and Conquer sorting algorithm.* - [Wiki](https://en.wikipedia.org/wiki/Merge_sort) 
   
 # Search
 
