@@ -5,7 +5,7 @@ A collection of algorithms and data structures written in Python.
 ---
 # Data Structures
 
-  - **[Bloom Filter](https://github.com/Samalot/python-practice/blob/master/Data%20Structures/Bloom_Filter.py)** - *Space-efficient probabilistic data structure to check list non-membership* - [Wiki](https://en.wikipedia.org/wiki/Bloom_filter)
+| **[Bloom Filter](https://github.com/Samalot/python-practice/blob/master/Data%20Structures/Bloom_Filter.py)** | *Space-efficient probabilistic data structure to check list non-membership*  | [Wiki](https://en.wikipedia.org/wiki/Bloom_filter)  |
 
 &nbsp;
 
