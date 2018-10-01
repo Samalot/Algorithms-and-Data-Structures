@@ -25,6 +25,7 @@ A collection of algorithms and data structures written in Python.
 
 | Name  | Description  | Links  |
 |---|---|---|
+| **[Binary Search](https://github.com/Samalot/python-practice/blob/master/Search/Binary_Search.py)** | An algorithm to find the position of a target value within a sorted array. | [Wiki](https://en.wikipedia.org/wiki/Binary_search_algorithm) |
 | **[Dijkstra's Algorithm](https://github.com/Samalot/python-practice/blob/master/Search/Dijkstra.py)** | Shortest path between two nodes in a graph. | [Wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) |
 | **[Floyd-Warshall Algorithm](https://github.com/Samalot/python-practice/blob/master/Search/Floyd_Warshall.py)** | Dynamic Programming algorithm to find the shortest distances between all points. | [Wiki](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm) |
   
