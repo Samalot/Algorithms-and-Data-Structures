@@ -44,7 +44,14 @@ A collection of algorithms and data structures written in Python.
 |---|---|---|
 | **[Kadane's Algorithm](https://github.com/Samalot/python-practice/blob/master/Arrays/Kadane.py)** | Find the maximum contigous subarray in O(n). | [Wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem) |
 
+# Maths
+
+| Name  | Description  | Links  |
+|---|---|---|
+| **[Sieve of Eratosthenes](https://github.com/Samalot/python-practice/blob/master/Maths/Sieve_of_Eratosthenes.py)** | A simple, ancient algorithm for finding all prime numbers up to any given limit. | [Wiki](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) |
+
 &nbsp;
+
 
 # Cover and Packing
 
