@@ -25,7 +25,7 @@ A collection of algorithms and data structures written in Python.
 
 | Name  | Description  | Links  | Time  | Space  |
 |---|---|---|---|---|
-| **[Dijkstra's Algorithm](https://github.com/Samalot/python-practice/blob/master/Search/Dijkstra.py)** | Shortest path between two nodes in a graph. | [Wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) | O( |E|+|V|log|V| ) | O( |V|<sup>2</sup> ) |
+| **[Dijkstra's Algorithm](https://github.com/Samalot/python-practice/blob/master/Search/Dijkstra.py)** | Shortest path between two nodes in a graph. | [Wiki](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) | O(E + V logV) | O(V<sup>2</sup>) |
 | **[Floyd-Warshall Algorithm](https://github.com/Samalot/python-practice/blob/master/Search/Floyd_Warshall.py)** | Dynamic Programming algorithm to find the shortest distances between all points. | [Wiki](https://en.wikipedia.org/wiki/Floyd%E2%80%93Warshall_algorithm) |  |  |
   
 &nbsp;
