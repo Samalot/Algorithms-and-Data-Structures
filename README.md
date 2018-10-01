@@ -7,10 +7,10 @@ A collection of algorithms and data structures written in Python.
 
 | **[Bloom Filter](https://github.com/Samalot/python-practice/blob/master/Data%20Structures/Bloom_Filter.py)** | *Space-efficient probabilistic data structure to check list non-membership*  | [Wiki](https://en.wikipedia.org/wiki/Bloom_filter)  |
 
-|      |      |      | fffff |
-|------|------|------|-------|
-| ffff | ffff | ffff | fffff |
-| ffff | ffff | ffff | ffff  |
+
+|---|---|---|
+| a | b | c |
+| d | f | e |
 
 &nbsp;
 
