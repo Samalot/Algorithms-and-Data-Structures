@@ -45,6 +45,8 @@ A collection of algorithms and data structures written in Python.
 |---|---|---|
 | **[Kadane's Algorithm](https://github.com/Samalot/python-practice/blob/master/Arrays/Kadane.py)** | Find the maximum contigous subarray in O(n). | [Wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem) |
 
+&nbsp;
+
 # Maths
 
 | Name  | Description  | Links  |
@@ -52,7 +54,6 @@ A collection of algorithms and data structures written in Python.
 | **[Sieve of Eratosthenes](https://github.com/Samalot/python-practice/blob/master/Maths/Sieve_of_Eratosthenes.py)** | A simple, ancient algorithm for finding all prime numbers up to any given limit. | [Wiki](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) |
 
 &nbsp;
-
 
 # Cover and Packing
 
@@ -67,9 +68,9 @@ A collection of algorithms and data structures written in Python.
 | Name  | Description  | Links  |
 |---|---|---|
 | **[Universal Tree Counting](https://github.com/Samalot/Algorithms-and-Data-Structures/blob/master/Problems/Unival_Tree_Counting.py)** | Count the number of non-empty Universal sub-trees. |  |
+| **[Tower of Hanoi](https://github.com/Samalot/Algorithms-and-Data-Structures/blob/master/Problems/Tower_of_Hanoi.py)** | Resursive solution to the Tower of Hanoi. | [Wiki](https://en.wikipedia.org/wiki/Tower_of_Hanoi) |
 
 &nbsp;
-
 
 ---
 License
