@@ -58,7 +58,7 @@ A collection of algorithms and data structures written in Python.
 
 | Name  | Description  | Links  |
 |---|---|---|
-| **[Universal Tree Counting](https://github.com/Samalot/python-practice/blob/master/Problems/Universal_Tree_Counting.py)** | *Count the number of non-empty Universal sub-trees.* |  |
+| **[Universal Tree Counting](https://github.com/Samalot/Algorithms-and-Data-Structures/blob/master/Problems/Unival_Tree_Counting.py)** | *Count the number of non-empty Universal sub-trees.* |  |
 
 &nbsp;
 
