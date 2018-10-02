@@ -44,6 +44,7 @@ A collection of algorithms and data structures written in Python.
 | Name  | Description  | Links  |
 |---|---|---|
 | **[Kadane's Algorithm](https://github.com/Samalot/python-practice/blob/master/Arrays/Kadane.py)** | Find the maximum contigous subarray in O(n). | [Wiki](https://en.wikipedia.org/wiki/Maximum_subarray_problem) |
+| **[Longest increasing subsequence](https://github.com/Samalot/python-practice/blob/master/Arrays/Longest_Increasing_Subsequence.py)** | Find a subsequence of a given sequence in which the subsequence's elements are in sorted order, lowest to highest, and in which the subsequence is as long as possible. | [Wiki](https://en.wikipedia.org/wiki/Longest_increasing_subsequence) |
 
 &nbsp;
 
