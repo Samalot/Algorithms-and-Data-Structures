@@ -5,6 +5,7 @@ def printTower(t):
             for i in range(len(t[n])-1):
                 if t[n][i] < t[n][i+1]:
                     print(str(t) + " = INVALID")
+                    return
     print(str(t))
 
 
