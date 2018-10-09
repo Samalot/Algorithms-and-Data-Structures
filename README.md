@@ -55,6 +55,14 @@ A collection of algorithms and data structures written in Python.
 | **[Sieve of Eratosthenes](https://github.com/Samalot/python-practice/blob/master/Maths/Sieve_of_Eratosthenes.py)** | A simple, ancient algorithm for finding all prime numbers up to any given limit. | [Wiki](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) |
 
 &nbsp;
+  
+# Scheduling
+
+| Name  | Description  | Links  |
+|---|---|---|
+| **[Weighted Job Scheduling](https://github.com/Samalot/python-practice/blob/master/Scheduling/Weighted_Job_Scheduling.py)** | Given certain jobs with start and end time and amount you make on finishing the job, find the maximum value you can make by scheduling jobs in non-overlapping way. | [YouTube](https://www.youtube.com/watch?v=cr6Ip0J9izc) |
+
+&nbsp;
 
 # Cover and Packing
 
