@@ -60,7 +60,7 @@ A collection of algorithms and data structures written in Python.
 
 | Name  | Description  | Links  |
 |---|---|---|
-| **[Weighted Job Scheduling](https://github.com/Samalot/python-practice/blob/master/Scheduling/Weighted_Job_Scheduling.py)** | Given certain jobs with start and end time and amount you make on finishing the job, find the maximum value you can make by scheduling jobs in non-overlapping way. | [YouTube](https://www.youtube.com/watch?v=cr6Ip0J9izc) |
+| **[Weighted Job Scheduling](https://github.com/Samalot/python-practice/blob/master/Scheduling/Weighted_Job_Scheduling.py)** | Given events with assigned values, find the maximum value you can make by scheduling events in non-overlapping way. | [YouTube](https://www.youtube.com/watch?v=cr6Ip0J9izc) |
 
 &nbsp;
 
